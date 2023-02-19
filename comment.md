@@ -1,2 +1,2 @@
 1. 댓글 기능
-2. 댓글 기능 2
+1. comment function
